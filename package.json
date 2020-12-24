@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-worker-proxy",
+  "version": "1.0.0",
+  "description": "Cloudflare worker to work as a proxy",
+  "main": "index.js",
+  "scripts": {},
+  "author": "anio <anio@users.noreply.github.com>",
+  "license": "MIT"
+}
