@@ -2,4 +2,4 @@
 
 > wrangler publish
 
-> curl https://proxy.your-account.workers.dev/__url=https://example.com
+> curl https://proxy.[your-subdomain].workers.dev/__url=https://example.com

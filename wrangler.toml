@@ -1,6 +1,6 @@
 name = "proxy"
 type = "javascript"
-account_id = ""
+account_id = "e56f73390a84a9d12009bf53d3ac2e8f"
 workers_dev = true
 route = ""
 zone_id = ""
